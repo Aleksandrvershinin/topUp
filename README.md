@@ -3,6 +3,6 @@
 ```bash
 composer install
 npm install
-npm run dev
+npm run build
 php artisan serve
 ```
